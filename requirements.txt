@@ -2,3 +2,6 @@ joblib
 plotly
 bcrypt
 torch
+sklearn
+pandas
+numpy
